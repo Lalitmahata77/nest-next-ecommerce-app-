@@ -1,4 +1,3 @@
-DOWNLOAD FULL CODE HERE => https://www.patreon.com/posts/full-stack-e-app-146932359
 
 # NestJS + Next.js E-Commerce Project
 
